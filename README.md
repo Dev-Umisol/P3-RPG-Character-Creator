@@ -52,4 +52,4 @@ rpg-character-creator/
 └── README.md
 ```
 
-*Part of my Python learning journey 🐍 — practising conditionals, string manipulation, and formatting*
+*Part of my Python learning journey 🐍 — practicing conditionals, string manipulation, and formatting*
